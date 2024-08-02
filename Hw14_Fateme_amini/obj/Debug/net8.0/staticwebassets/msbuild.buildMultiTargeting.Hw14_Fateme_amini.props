@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hw14_Fateme_amini.props" />
+</Project>

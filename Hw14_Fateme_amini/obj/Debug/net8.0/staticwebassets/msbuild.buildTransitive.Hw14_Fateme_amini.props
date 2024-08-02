@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Hw14_Fateme_amini.props" />
+</Project>
